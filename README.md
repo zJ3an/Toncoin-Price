@@ -2,7 +2,7 @@
 
 This Telegram bot posts the price of **Toncoin** on a specific channel every minute. It is useful for those who want to closely follow Toncoin quote.
 
-Support the creator by joining their development channel on Telegram: [J3an | Dev](https://t.me/j3d3v)
+Support the creator by joining their development channel on Telegram: [J3an](https://t.me/TryJ3an)
 
 ## 💖 Support the Developer
 
