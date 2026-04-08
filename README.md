@@ -8,17 +8,13 @@ Support the creator by joining their development channel on Telegram: [J3an | De
 
 If you found this tool useful, consider supporting the developer by making a donation. Your support helps maintain and improve this project.
 
-☕️ Donate here: [dzj3an.github.io/donate.html](https://dzj3an.github.io/donate.html)
+☕️ Donate here: [Site](https://j3an.softr.app/donate)
 
 ## Features
 
 - Get the price of Toncoin from an official API.
 - Send updates to the configured Telegram channel.
 - You can turn off the process or turn it on whenever you like.
-
-
-You can see the functionalities of the Bot by joining the following channel:  
-[https://t.me/iTonPrice](https://t.me/iTonPrice)
 
 ---
 
